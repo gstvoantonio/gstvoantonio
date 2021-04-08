@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gstvoantonio
-- 👀 I'm interested in backend and frontend development
-- 🌱 I am currently learning django and pytest
-- 🚀 I currently work at @cornershop as a Backend Engineer
+- 👋  Hi, I’m @gstvoantonio
+- 👀  I'm interested in backend and frontend development
+- 🌱  I am currently learning django and pytest
+- 🚀  I currently work at @cornershop as a Backend Engineer
