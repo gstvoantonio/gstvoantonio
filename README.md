@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm gstvoantonio</h1>
-<h3 align="center">Backend engineer with a passion for frontend</h3>
+<h3 align="center">Javascript engineer at @cornershop</h3>
 
 - 🚀 I’m currently working on [Cornershop](https://cornershopapp.com/)
 
