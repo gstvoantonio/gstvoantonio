@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Vue and vuetify**
+- 💬 Ask me about **ReactJS and VueJS**
 
 
 <h3 align="left">Languages and Tools:</h3>
